@@ -10,8 +10,8 @@
     <string name="ob_desc2">If the person you’re calling also has Wonep the call will be entirely free</string>
     <string name="ob_desc3">We have a very small charge for non-Wonep calls to mobiles or landlines</string>
 
-    <string name="demo_content">Lorem ipsum dolor sit amet, consectetur\n adipiscing elit. Vivamus sodales faucibus\n dapibus. Etiam mattis leo quis laoreet dictum.</string>
-    <string name="demo_title">Lorem Ipsum</string>
+    <string name="demo_content">Welcome to Home Automation App by Team Zerobugs!</string>
+    <string name="demo_title">Home Automation</string>
     <string name="next">Next</string>
-    <string name="finish">Finish</string>
+    <string name="finish">Enter APP!</string>
 </resources>
